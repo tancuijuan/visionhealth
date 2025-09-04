@@ -1,4 +1,4 @@
-Reviewing Mobile Apps that Provide Snellen Chart
+## Reviewing Mobile Apps that Provide Snellen Chart
 
 ### 1. **Tumbling E Chart by Fonlow** (Android)
 🔧 **Features**:
@@ -70,17 +70,9 @@ Reviewing Mobile Apps that Provide Snellen Chart
 | **Chart Types**                | Multiple (E, Snellen, etc.) | Tumbling E only        | Tumbling E only        |
 | **Languages**                  | 10+ incl. Chinese, Hindi | 6 UN languages         | English only           |
 | **Test Modes**                 | Manual & Autoplay        | Guided manual          | Guided manual          |
-| **Self-Test Option**           | Yes (mirror/Bluetooth)   | Yes                    | No (requires operator) |
+| **Self-Test Option**           | Yes (mirror/Bluetooth keyboard)   | Yes                    | No (requires operator) |
 | **Score Recording**            | Yes                      | No                     | No                     |
 | **Clinical Validation**        | No formal studies        | 3 research studies     | Peer-reviewed trials   |
 | **Best For**                   | Home users, educators    | Public health, multilingual users | NGOs, outreach clinics |
 
 ---
-
-## 🧠 Final Thoughts
-
-- **Fonlow** offers the most customizable and feature-rich experience for individual users or educators.
-- **WHOeyes** excels in accessibility and public health outreach, especially in multilingual or low-literacy contexts.
-- **Peek Acuity** is the most clinically validated and suited for professional screening, though it lacks self-test and data recording.
-
-If you're considering integrating one into multilingual documentation or clinical onboarding flows, WHOeyes and Peek Acuity offer strong foundations for inclusive design. Want help drafting a usage guide or comparing their UI for age-diverse audiences?
