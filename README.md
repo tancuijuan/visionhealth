@@ -72,7 +72,7 @@
 | **Test Modes**                 | Manual & Autoplay        | Guided manual          | Guided manual          |
 | **Self-Test Option**           | Yes (mirror/Bluetooth keyboard)   | Yes                    | No (requires operator) |
 | **Score Recording**            | Yes                      | No                     | No                     |
-| **Clinical Validation**        | No formal studies        | 3 research studies     | Peer-reviewed trials   |
+| **Clinical Validation**        | 3 research studies        | 3 research studies     | Peer-reviewed trials   |
 | **Best For**                   | Home users, educators    | Public health, multilingual users | NGOs, outreach clinics |
 
 ---
