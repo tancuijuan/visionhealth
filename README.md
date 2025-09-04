@@ -67,12 +67,12 @@
 | Feature                         | Fonlow Tumbling E Chart | WHOeyes               | Peek Acuity           |
 |--------------------------------|--------------------------|------------------------|------------------------|
 | **Platform**                   | Android                  | iOS & Android          | Android only           |
-| **Chart Types**                | Multiple (E, Snellen, etc.) | Tumbling E only        | Tumbling E only        |
+| **Chart Types**                | Tumbling E and short-arm E | Tumbling E only        | Tumbling E only        |
 | **Languages**                  | 10+ incl. Chinese, Hindi | 6 UN languages         | English only           |
 | **Test Modes**                 | Manual & Autoplay        | Guided manual          | Guided manual          |
 | **Self-Test Option**           | Yes (mirror/Bluetooth keyboard)   | Yes                    | No (requires operator) |
 | **Score Recording**            | Yes                      | No                     | No                     |
 | **Clinical Validation**        | 3 research studies        | 3 research studies     | Peer-reviewed trials   |
-| **Best For**                   | Home users, educators    | Public health, multilingual users | NGOs, outreach clinics |
+| **Best For**                   | Home users, educators, GP, clinics    | Public health, multilingual users | NGOs, outreach clinics |
 
 ---
